@@ -1,0 +1,296 @@
+- generic [active] [ref=f5e1]:
+  - heading "Directory listing for /" [level=1] [ref=f5e2]
+  - separator [ref=f5e3]
+  - list [ref=f5e4]:
+    - listitem [ref=f5e5]:
+      - link ".7z-config/" [ref=f5e6] [cursor=pointer]:
+        - /url: .7z-config/
+    - listitem [ref=f5e7]:
+      - link ".9router/" [ref=f5e8] [cursor=pointer]:
+        - /url: .9router/
+    - listitem [ref=f5e9]:
+      - link ".agent-browser/" [ref=f5e10] [cursor=pointer]:
+        - /url: .agent-browser/
+    - listitem [ref=f5e11]:
+      - link ".agents/" [ref=f5e12] [cursor=pointer]:
+        - /url: .agents/
+    - listitem [ref=f5e13]:
+      - link ".amr/" [ref=f5e14] [cursor=pointer]:
+        - /url: .amr/
+    - listitem [ref=f5e15]:
+      - link ".aside/" [ref=f5e16] [cursor=pointer]:
+        - /url: .aside/
+    - listitem [ref=f5e17]:
+      - link ".aws/" [ref=f5e18] [cursor=pointer]:
+        - /url: .aws/
+    - listitem [ref=f5e19]:
+      - link ".bash_history" [ref=f5e20] [cursor=pointer]:
+        - /url: .bash_history
+    - listitem [ref=f5e21]:
+      - link ".bash_sessions/" [ref=f5e22] [cursor=pointer]:
+        - /url: .bash_sessions/
+    - listitem [ref=f5e23]:
+      - link ".bun/" [ref=f5e24] [cursor=pointer]:
+        - /url: .bun/
+    - listitem [ref=f5e25]:
+      - link ".buzz/" [ref=f5e26] [cursor=pointer]:
+        - /url: .buzz/
+    - listitem [ref=f5e27]:
+      - link ".cache/" [ref=f5e28] [cursor=pointer]:
+        - /url: .cache/
+    - listitem [ref=f5e29]:
+      - link ".cargo/" [ref=f5e30] [cursor=pointer]:
+        - /url: .cargo/
+    - listitem [ref=f5e31]:
+      - link ".cdk/" [ref=f5e32] [cursor=pointer]:
+        - /url: .cdk/
+    - listitem [ref=f5e33]:
+      - link ".CFUserTextEncoding" [ref=f5e34] [cursor=pointer]:
+        - /url: .CFUserTextEncoding
+    - listitem [ref=f5e35]:
+      - link ".chub/" [ref=f5e36] [cursor=pointer]:
+        - /url: .chub/
+    - listitem [ref=f5e37]:
+      - link ".claude/" [ref=f5e38] [cursor=pointer]:
+        - /url: .claude/
+    - listitem [ref=f5e39]:
+      - link ".claude.json" [ref=f5e40] [cursor=pointer]:
+        - /url: .claude.json
+    - listitem [ref=f5e41]:
+      - link ".claude.json.backup" [ref=f5e42] [cursor=pointer]:
+        - /url: .claude.json.backup
+    - listitem [ref=f5e43]:
+      - link ".codegraph/" [ref=f5e44] [cursor=pointer]:
+        - /url: .codegraph/
+    - listitem [ref=f5e45]:
+      - link ".codex/" [ref=f5e46] [cursor=pointer]:
+        - /url: .codex/
+    - listitem [ref=f5e47]:
+      - link ".config/" [ref=f5e48] [cursor=pointer]:
+        - /url: .config/
+    - listitem [ref=f5e49]:
+      - link ".copilot/" [ref=f5e50] [cursor=pointer]:
+        - /url: .copilot/
+    - listitem [ref=f5e51]:
+      - link ".cups/" [ref=f5e52] [cursor=pointer]:
+        - /url: .cups/
+    - listitem [ref=f5e53]:
+      - link ".cursor/" [ref=f5e54] [cursor=pointer]:
+        - /url: .cursor/
+    - listitem [ref=f5e55]:
+      - link ".devkit/" [ref=f5e56] [cursor=pointer]:
+        - /url: .devkit/
+    - listitem [ref=f5e57]:
+      - link ".docker/" [ref=f5e58] [cursor=pointer]:
+        - /url: .docker/
+    - listitem [ref=f5e59]:
+      - link ".DS_Store" [ref=f5e60] [cursor=pointer]:
+        - /url: .DS_Store
+    - listitem [ref=f5e61]:
+      - link ".enouvoPlanReviewer/" [ref=f5e62] [cursor=pointer]:
+        - /url: .enouvoPlanReviewer/
+    - listitem [ref=f5e63]:
+      - link ".gemini/" [ref=f5e64] [cursor=pointer]:
+        - /url: .gemini/
+    - listitem [ref=f5e65]:
+      - link ".gitnexus/" [ref=f5e66] [cursor=pointer]:
+        - /url: .gitnexus/
+    - listitem [ref=f5e67]:
+      - link ".goclaw/" [ref=f5e68] [cursor=pointer]:
+        - /url: .goclaw/
+    - listitem [ref=f5e69]:
+      - link ".hermes/" [ref=f5e70] [cursor=pointer]:
+        - /url: .hermes/
+    - listitem [ref=f5e71]:
+      - link ".homebrew/" [ref=f5e72] [cursor=pointer]:
+        - /url: .homebrew/
+    - listitem [ref=f5e73]:
+      - link ".kiro/" [ref=f5e74] [cursor=pointer]:
+        - /url: .kiro/
+    - listitem [ref=f5e75]:
+      - link ".lbdb/" [ref=f5e76] [cursor=pointer]:
+        - /url: .lbdb/
+    - listitem [ref=f5e77]:
+      - link ".lesshst" [ref=f5e78] [cursor=pointer]:
+        - /url: .lesshst
+    - listitem [ref=f5e79]:
+      - link ".local/" [ref=f5e80] [cursor=pointer]:
+        - /url: .local/
+    - listitem [ref=f5e81]:
+      - link ".luarocks/" [ref=f5e82] [cursor=pointer]:
+        - /url: .luarocks/
+    - listitem [ref=f5e83]:
+      - link ".lume/" [ref=f5e84] [cursor=pointer]:
+        - /url: .lume/
+    - listitem [ref=f5e85]:
+      - link ".mcp-auth/" [ref=f5e86] [cursor=pointer]:
+        - /url: .mcp-auth/
+    - listitem [ref=f5e87]:
+      - link ".mesh-llm/" [ref=f5e88] [cursor=pointer]:
+        - /url: .mesh-llm/
+    - listitem [ref=f5e89]:
+      - link ".npm/" [ref=f5e90] [cursor=pointer]:
+        - /url: .npm/
+    - listitem [ref=f5e91]:
+      - link ".oh-my-zsh/" [ref=f5e92] [cursor=pointer]:
+        - /url: .oh-my-zsh/
+    - listitem [ref=f5e93]:
+      - link ".omp/" [ref=f5e94] [cursor=pointer]:
+        - /url: .omp/
+    - listitem [ref=f5e95]:
+      - link ".orbstack/" [ref=f5e96] [cursor=pointer]:
+        - /url: .orbstack/
+    - listitem [ref=f5e97]:
+      - link ".orca/" [ref=f5e98] [cursor=pointer]:
+        - /url: .orca/
+    - listitem [ref=f5e99]:
+      - link ".paseo/" [ref=f5e100] [cursor=pointer]:
+        - /url: .paseo/
+    - listitem [ref=f5e101]:
+      - link ".paseo-control/" [ref=f5e102] [cursor=pointer]:
+        - /url: .paseo-control/
+    - listitem [ref=f5e103]:
+      - link ".pi/" [ref=f5e104] [cursor=pointer]:
+        - /url: .pi/
+    - listitem [ref=f5e105]:
+      - link ".pnpm-store/" [ref=f5e106] [cursor=pointer]:
+        - /url: .pnpm-store/
+    - listitem [ref=f5e107]:
+      - link ".profile" [ref=f5e108] [cursor=pointer]:
+        - /url: .profile
+    - listitem [ref=f5e109]:
+      - link ".pyenv/" [ref=f5e110] [cursor=pointer]:
+        - /url: .pyenv/
+    - listitem [ref=f5e111]:
+      - link ".rustup/" [ref=f5e112] [cursor=pointer]:
+        - /url: .rustup/
+    - listitem [ref=f5e113]:
+      - link ".serverless/" [ref=f5e114] [cursor=pointer]:
+        - /url: .serverless/
+    - listitem [ref=f5e115]:
+      - link ".serverlessrc" [ref=f5e116] [cursor=pointer]:
+        - /url: .serverlessrc
+    - listitem [ref=f5e117]:
+      - link ".shell.pre-oh-my-zsh" [ref=f5e118] [cursor=pointer]:
+        - /url: .shell.pre-oh-my-zsh
+    - listitem [ref=f5e119]:
+      - link ".sonar/" [ref=f5e120] [cursor=pointer]:
+        - /url: .sonar/
+    - listitem [ref=f5e121]:
+      - link ".ssh/" [ref=f5e122] [cursor=pointer]:
+        - /url: .ssh/
+    - listitem [ref=f5e123]:
+      - link ".storybook/" [ref=f5e124] [cursor=pointer]:
+        - /url: .storybook/
+    - listitem [ref=f5e125]:
+      - link ".tcshrc" [ref=f5e126] [cursor=pointer]:
+        - /url: .tcshrc
+    - listitem [ref=f5e127]:
+      - link ".Trash/" [ref=f5e128] [cursor=pointer]:
+        - /url: .Trash/
+    - listitem [ref=f5e129]:
+      - link ".viminfo" [ref=f5e130] [cursor=pointer]:
+        - /url: .viminfo
+    - listitem [ref=f5e131]:
+      - link ".vite-plus/" [ref=f5e132] [cursor=pointer]:
+        - /url: .vite-plus/
+    - listitem [ref=f5e133]:
+      - link ".vscode/" [ref=f5e134] [cursor=pointer]:
+        - /url: .vscode/
+    - listitem [ref=f5e135]:
+      - link ".vscode-shared/" [ref=f5e136] [cursor=pointer]:
+        - /url: .vscode-shared/
+    - listitem [ref=f5e137]:
+      - link ".yarn/" [ref=f5e138] [cursor=pointer]:
+        - /url: .yarn/
+    - listitem [ref=f5e139]:
+      - link ".yarnrc" [ref=f5e140] [cursor=pointer]:
+        - /url: .yarnrc
+    - listitem [ref=f5e141]:
+      - link ".zcompdump-mb162-sontran-5.9" [ref=f5e142] [cursor=pointer]:
+        - /url: .zcompdump-mb162-sontran-5.9
+    - listitem [ref=f5e143]:
+      - link ".zcompdump-mb162-sontran-5.9.mb162-sontran.local.14602" [ref=f5e144] [cursor=pointer]:
+        - /url: .zcompdump-mb162-sontran-5.9.mb162-sontran.local.14602
+    - listitem [ref=f5e145]:
+      - link ".zcompdump-mb162-sontran-5.9.mb162-sontran.local.70337" [ref=f5e146] [cursor=pointer]:
+        - /url: .zcompdump-mb162-sontran-5.9.mb162-sontran.local.70337
+    - listitem [ref=f5e147]:
+      - link ".zcompdump-mb162-sontran-5.9.zwc" [ref=f5e148] [cursor=pointer]:
+        - /url: .zcompdump-mb162-sontran-5.9.zwc
+    - listitem [ref=f5e149]:
+      - link ".zhsrc" [ref=f5e150] [cursor=pointer]:
+        - /url: .zhsrc
+    - listitem [ref=f5e151]:
+      - link ".zprofile" [ref=f5e152] [cursor=pointer]:
+        - /url: .zprofile
+    - listitem [ref=f5e153]:
+      - link ".zsh_history" [ref=f5e154] [cursor=pointer]:
+        - /url: .zsh_history
+    - listitem [ref=f5e155]:
+      - link ".zsh_sessions/" [ref=f5e156] [cursor=pointer]:
+        - /url: .zsh_sessions/
+    - listitem [ref=f5e157]:
+      - link ".zshenv" [ref=f5e158] [cursor=pointer]:
+        - /url: .zshenv
+    - listitem [ref=f5e159]:
+      - link ".zshrc@" [ref=f5e160] [cursor=pointer]:
+        - /url: .zshrc
+    - listitem [ref=f5e161]:
+      - link ".zshrc.bak.codex-20260402" [ref=f5e162] [cursor=pointer]:
+        - /url: .zshrc.bak.codex-20260402
+    - listitem [ref=f5e163]:
+      - link ".zshrc.pre-oh-my-zsh@" [ref=f5e164] [cursor=pointer]:
+        - /url: .zshrc.pre-oh-my-zsh
+    - listitem [ref=f5e165]:
+      - link "Applications/" [ref=f5e166] [cursor=pointer]:
+        - /url: Applications/
+    - listitem [ref=f5e167]:
+      - link "Desktop/" [ref=f5e168] [cursor=pointer]:
+        - /url: Desktop/
+    - listitem [ref=f5e169]:
+      - link "DEV/" [ref=f5e170] [cursor=pointer]:
+        - /url: DEV/
+    - listitem [ref=f5e171]:
+      - link "Documents/" [ref=f5e172] [cursor=pointer]:
+        - /url: Documents/
+    - listitem [ref=f5e173]:
+      - link "Downloads/" [ref=f5e174] [cursor=pointer]:
+        - /url: Downloads/
+    - listitem [ref=f5e175]:
+      - link "go/" [ref=f5e176] [cursor=pointer]:
+        - /url: go/
+    - listitem [ref=f5e177]:
+      - link "Library/" [ref=f5e178] [cursor=pointer]:
+        - /url: Library/
+    - listitem [ref=f5e179]:
+      - link "Movies/" [ref=f5e180] [cursor=pointer]:
+        - /url: Movies/
+    - listitem [ref=f5e181]:
+      - link "Music/" [ref=f5e182] [cursor=pointer]:
+        - /url: Music/
+    - listitem [ref=f5e183]:
+      - link "obsidian-wiki/" [ref=f5e184] [cursor=pointer]:
+        - /url: obsidian-wiki/
+    - listitem [ref=f5e185]:
+      - link "OrbStack/" [ref=f5e186] [cursor=pointer]:
+        - /url: OrbStack/
+    - listitem [ref=f5e187]:
+      - link "orca/" [ref=f5e188] [cursor=pointer]:
+        - /url: orca/
+    - listitem [ref=f5e189]:
+      - link "Pictures/" [ref=f5e190] [cursor=pointer]:
+        - /url: Pictures/
+    - listitem [ref=f5e191]:
+      - link "Postman/" [ref=f5e192] [cursor=pointer]:
+        - /url: Postman/
+    - listitem [ref=f5e193]:
+      - link "Public/" [ref=f5e194] [cursor=pointer]:
+        - /url: Public/
+    - listitem [ref=f5e195]:
+      - link "skills/" [ref=f5e196] [cursor=pointer]:
+        - /url: skills/
+    - listitem [ref=f5e197]:
+      - link "workspace/" [ref=f5e198] [cursor=pointer]:
+        - /url: workspace/
+  - separator [ref=f5e199]

@@ -1,0 +1,56 @@
+- generic [active] [ref=f11e1]:
+  - banner [ref=f11e2]:
+    - generic [ref=f11e3]:
+      - link "Hyops — back to top" [ref=f11e4] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=f11e6]:
+          - generic [ref=f11e7]: Hyops
+          - generic [ref=f11e8]: SOFTWARE STUDIO
+      - link "Get in touch" [ref=f11e9] [cursor=pointer]:
+        - /url: mailto:son.tran@hyops.dev
+      - button "Open menu" [ref=f11e10]
+  - main [ref=f11e13]:
+    - region "Thoughtful software. Real-world impact." [ref=f11e14]:
+      - generic [ref=f11e15]:
+        - paragraph [ref=f11e16]: A software studio with a human side
+        - generic [ref=f11e17]:
+          - link "Explore our products" [ref=f11e18] [cursor=pointer]:
+            - /url: "#products"
+            - text: Explore our products
+            - generic [aria-hidden] [ref=f11e19]: ↗
+          - link "Our story" [ref=f11e20] [cursor=pointer]:
+            - /url: "#about"
+            - text: Our story
+            - generic [aria-hidden] [ref=f11e21]: →
+      - group "Hyops visual with links to intelligence, people, products and continuous improvement" [ref=f11e22]
+    - region "What we believe" [ref=f11e23]:
+      - generic [ref=f11e24]: GOOD IDEAS. THOUGHTFUL EXECUTION.
+    - region "Small tools. Meaningful impact." [ref=f11e26]
+    - region "Technology that moves your work forward." [ref=f11e28]
+    - region "Your idea. Our attention to detail." [ref=f11e31]
+    - region "A small team with broad experience." [ref=f11e34]
+    - region "Have an idea? Let’s make it real." [ref=f11e35]:
+      - link "Start a conversation" [ref=f11e36] [cursor=pointer]:
+        - /url: mailto:son.tran@hyops.dev
+        - text: Start a conversation
+        - generic [aria-hidden] [ref=f11e37]: ↗
+  - contentinfo [ref=f11e38]:
+    - generic [ref=f11e39]:
+      - link "Hyops — back to top" [ref=f11e40] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=f11e42]:
+          - generic [ref=f11e43]: Hyops
+          - generic [ref=f11e44]: SOFTWARE STUDIO
+      - generic [ref=f11e45]: Thoughtful software for real life.
+      - navigation "Product links and contact" [ref=f11e46]:
+        - link "Smart Stock ↗" [ref=f11e47] [cursor=pointer]:
+          - /url: https://smart-stock.pages.dev/
+        - link "EB3VIET ↗" [ref=f11e48] [cursor=pointer]:
+          - /url: https://eb3viet.com/
+        - link "Contact ↗" [ref=f11e49] [cursor=pointer]:
+          - /url: mailto:son.tran@hyops.dev
+        - link "Back to top ↑" [ref=f11e50] [cursor=pointer]:
+          - /url: "#top"
+    - generic [ref=f11e51]:
+      - generic [ref=f11e52]: © 2026 Hyops. All rights reserved.
+      - generic [ref=f11e53]: Digital products, built with care.

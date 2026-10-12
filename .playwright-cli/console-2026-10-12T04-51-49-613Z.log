@@ -1,0 +1,10 @@
+[    5231ms] [WARNING] Unrecognized feature: 'vr'. @ https://www.veep.vn/?lang=en:2637
+[    7392ms] [WARNING] react-i18next:: It seems you are still using the old wait option, you may migrate to the new useSuspense behaviour. @ https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js:1
+[   13197ms] [WARNING] [2026-10-12T04:52:02.809Z]  @firebase/app-compat: 
+    Warning: Firebase is already defined in the global scope. Please make sure
+    Firebase library is only loaded once.
+   @ https://static.parastorage.com/services/chat-widget/c1244486e39dd8b5d0270de29b98db1b603303e7713acef3eefe74f5/chat-sdk.chunk.min.js:3342
+[ 8957343ms] [ERROR] WebSocket connection to 'wss://s-gke-usc1-nssi2-65.firebaseio.com/.ws?v=5&ls=XUQ1YtC4KMro9FupPwpKU3KqXs9WtAl2&ns=wix-engage-visitors-prod-31' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED @ https://static.parastorage.com/services/chat-widget/c1244486e39dd8b5d0270de29b98db1b603303e7713acef3eefe74f5/chat-sdk.chunk.min.js:2321
+[ 8957435ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://wix-engage-visitors-prod-31.firebaseio.com/.lp?start=t&ser=55060349&cb=1&v=5&ls=XUQ1YtC4KMro9FupPwpKU3KqXs9WtAl2:0
+[ 8957640ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://panorama.wixapps.net/api/v1/bulklog:0
+[ 8958248ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://wix-engage-visitors-prod-31.firebaseio.com/.lp?start=t&ser=62189273&cb=2&v=5&ls=XUQ1YtC4KMro9FupPwpKU3KqXs9WtAl2:0
